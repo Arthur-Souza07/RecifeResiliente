@@ -1,0 +1,11 @@
+{
+  "name": "Remix: Recife Resiliente",
+  "description": "Plataforma avançada de gerenciamento de crises urbanas e resiliência no Recife, integrando Defesa Civil, CTTU, hospitais, alertas climáticos e portal público de emergências.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
